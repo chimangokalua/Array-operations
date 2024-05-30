@@ -1,4 +1,4 @@
-public class Task2ArrayCode {
+public class Main {
     public static void main(String[] args) {
         // Declare and initialize the array
         int[] ten = {10, 20, 20, 40, 50, 60, 70, 80, 90, 100};
